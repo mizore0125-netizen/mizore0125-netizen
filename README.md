@@ -1,16 +1,41 @@
-## Hi there 👋
+# 🚀 Career & Development Roadmap
 
-<!--
-**mizore0125-netizen/mizore0125-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+未経験からバックエンドエンジニア（AI・MLOps領域）を経て、メガベンチャー・高年収層へ到達するためのロードマップ。
 
-Here are some ideas to get you started:
+## Phase 1: フロントエンドの完成（現在地）
+UI/UXにこだわり、現場で使える「積筋」のガワを完成させる。
+- [x] HTML/CSSの基礎構築（デザイン適用）
+- [x] JavaScriptでの動的UI（部位選択トグル）
+- [x] JavaScriptでのイベント委譲（自動追加＆コピーボタン）
+- [ ] 「etc.」ボタン押下時のテキスト自由入力機能の実装
+- [ ] GitHubアカウント作成と、ソースコードの初回コミット・プッシュ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Phase 2: バックエンド化（Python / Flask）
+ローカル環境で動くWebアプリへ進化させる。
+- [ ] Flask公式チュートリアル（またはYouTube動画）で基礎を掴む
+- [ ] Flask環境の構築（Hello Worldの表示）
+- [ ] 現在のHTML/CSS/JSをFlaskの `templates` / `static` フォルダに移植
+- [ ] トレーニング記録をPython側で受け取り、変数（リスト）に保持する機能の実装
+
+## Phase 3: データベースとセキュリティ（ポートフォリオ完成）
+実務レベルの堅牢なアプリケーションに引き上げる。
+- [ ] PostgreSQLの基礎学習（SQL構文など）
+- [ ] FlaskとPostgreSQLの連携（データの永続化）
+- [ ] 書籍『安全なWebアプリケーションの作り方（徳丸本）』のハンズオン実施
+- [ ] 徳丸本の知識を活かし、積筋にSQLインジェクション・XSS対策を実装
+- [ ] クラウドサーバー（Renderなど）へのデプロイ（インターネット公開）
+
+## Phase 4: 転職活動 ＆ AI拡張
+ここまでの実績を武器にWebエンジニアとして転職。並行してアプリを強化する。
+- [ ] ポートフォリオと職務経歴書の作成（中学校でのマネジメント・計画立案力もアピール）
+- [ ] **【1社目転職活動】バックエンドエンジニアとして内定獲得**
+- [ ] Pythonデータサイエンスの知識（Pandas/Scikit-learn）の基礎固め
+- [ ] 積筋に「過去データから今日の推奨重量を予測するAI機能」を実装
+- [ ] アプリの英語対応（i18n）と、海外フォーラム（Reddit等）での宣伝
+- [ ] 日常的な英語リーディングの習慣化（公式ドキュメントや海外論文を直接読めるレベルを目指す）
+
+## Phase 5: メガベンチャー・テックリードへの飛躍
+高年収（1000万〜）と高い技術力を持つエンジニアへ。
+- [ ] 実務での大規模トラフィック処理・クラウドアーキテクチャ（AWS等）の経験蓄積
+- [ ] 社内外のAI・データ基盤プロジェクトへの参画
+- [ ] **【2社目転職活動】メガベンチャーのコア人材、または機械学習基盤エンジニアとして参画**
